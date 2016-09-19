@@ -1,0 +1,31 @@
+=pod
+
+=head1 NAME
+
+Time::Piece::Mutable - Time::Piece with mutable attributes
+
+=head1 SYNOPSIS
+
+=head1 DESCRIPTION
+
+=head1 BUGS
+
+Report any issues on the public bugtracker.
+
+=head1 AUTHOR
+
+Dan Book <dbook@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2016 by Dan Book.
+
+This is free software, licensed under:
+
+  The Artistic License 2.0 (GPL Compatible)
+
+=head1 SEE ALSO
+
+L<Time::Piece>, L<Time::Moment>
+
+=cut
